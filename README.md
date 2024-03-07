@@ -6,7 +6,7 @@ Python 3.8 et sh
 
 OMA2json est un outil en ligne de commande permettant d'extraire les métadonnées des fichiers OMA (Sony OpenMG audio) et de les convertir en fichiers JSON. Ces métadonnées incluent des informations telles que le titre, l'artiste, l'album, le genre et le numéro de piste.
 
-## Prérequis
+## Prérequis
 
 Avant d'utiliser OMA2json, assurez-vous d'avoir les éléments suivants installés sur votre système :
 
