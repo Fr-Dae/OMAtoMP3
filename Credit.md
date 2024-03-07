@@ -1,2 +1,2 @@
-- [Fr-Dae](https://github.com/Fr-Dae)
-- [victorbnl](https://github.com/victorbnl)
+- [Fr-Dae](https://github.com/Fr-Dae) Auteur original
+- [victorbnl](https://github.com/victorbnl) contributeur
