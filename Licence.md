@@ -1,4 +1,5 @@
 # Licence Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+## CC-BY-NC-SA
 
 **Par OMA to MP3 © 2024 Fr_Dae** (Dae.anthony@gmail.com)
 
