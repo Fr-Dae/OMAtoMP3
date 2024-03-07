@@ -1,2 +1,2 @@
-- @fr-dae
-- @victorbnl
+- [Fr-Dae](https://github.com/Fr-Dae)
+- [victorbnl](https://github.com/victorbnl)
