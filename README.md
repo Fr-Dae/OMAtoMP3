@@ -21,7 +21,8 @@ mkdir ./OMA2MP3
 wget -o ./OMA2MP3/OMA2MP3.py
 chmod -R 775 ./ 
 ```
-## Utilisation
+
+## Utilisation
 
 Pour extraire les métadonnées OMA des fichiers, utilisez la commande suivante :
 
